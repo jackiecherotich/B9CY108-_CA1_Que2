@@ -1,8 +1,8 @@
 # Question 2 – File Extension Searching (C# Console Application)
 
 ## Description
-This application allows the user to enter a file extension and returns a
-description of the corresponding file type.
+This application allows the user to enter a file extension and returns  a
+description for that file type.
 
 ## Features
 - Search file extensions using a dictionary
